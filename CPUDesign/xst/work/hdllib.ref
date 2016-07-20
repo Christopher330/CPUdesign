@@ -1,0 +1,14 @@
+AR tkorder behavioral D:/CPUDesign/TkOrder.vhd sub00/vhpl03 1438330631
+EN tkorder NULL D:/CPUDesign/TkOrder.vhd sub00/vhpl02 1438330630
+AR alu behavioral D:/CPUDesign/ALU.vhd sub00/vhpl05 1438330633
+EN clkctr NULL D:/CPUDesign/clkCtr.vhd sub00/vhpl00 1438330628
+EN memory NULL D:/CPUDesign/Memory.vhd sub00/vhpl06 1438330634
+AR rewrite behavioral D:/CPUDesign/Rewrite.vhd sub00/vhpl09 1438330637
+AR memory behavioral D:/CPUDesign/Memory.vhd sub00/vhpl07 1438330635
+EN maincpu NULL D:/CPUDesign/MainCPU.vhd sub00/vhpl12 1438330640
+AR clkctr behavioral D:/CPUDesign/clkCtr.vhd sub00/vhpl01 1438330629
+AR maincpu behavioral D:/CPUDesign/MainCPU.vhd sub00/vhpl13 1438330641
+AR memctr behavioral D:/CPUDesign/MemCtr.vhd sub00/vhpl11 1438330639
+EN rewrite NULL D:/CPUDesign/Rewrite.vhd sub00/vhpl08 1438330636
+EN alu NULL D:/CPUDesign/ALU.vhd sub00/vhpl04 1438330632
+EN memctr NULL D:/CPUDesign/MemCtr.vhd sub00/vhpl10 1438330638

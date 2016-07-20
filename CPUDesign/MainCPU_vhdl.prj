@@ -1,0 +1,7 @@
+vhdl work "D:\CPUDesign\TkOrder.vhd"
+vhdl work "D:\CPUDesign\Rewrite.vhd"
+vhdl work "D:\CPUDesign\Memory.vhd"
+vhdl work "D:\CPUDesign\MemCtr.vhd"
+vhdl work "D:\CPUDesign\clkCtr.vhd"
+vhdl work "D:\CPUDesign\ALU.vhd"
+vhdl work "D:\CPUDesign\MainCPU.vhd"

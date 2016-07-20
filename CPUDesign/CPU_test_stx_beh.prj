@@ -1,0 +1,8 @@
+vhdl isim_temp "TkOrder.vhd"
+vhdl isim_temp "Rewrite.vhd"
+vhdl isim_temp "Memory.vhd"
+vhdl isim_temp "MemCtr.vhd"
+vhdl isim_temp "clkCtr.vhd"
+vhdl isim_temp "ALU.vhd"
+vhdl isim_temp "MainCPU.vhd"
+vhdl isim_temp "CPU_test.vhd"

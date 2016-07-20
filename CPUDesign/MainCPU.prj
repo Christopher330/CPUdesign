@@ -1,0 +1,7 @@
+vhdl work "TkOrder.vhd"
+vhdl work "Rewrite.vhd"
+vhdl work "Memory.vhd"
+vhdl work "MemCtr.vhd"
+vhdl work "clkCtr.vhd"
+vhdl work "ALU.vhd"
+vhdl work "MainCPU.vhd"

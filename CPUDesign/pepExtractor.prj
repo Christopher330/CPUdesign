@@ -1,0 +1,7 @@
+work	"ALU.vhd"
+work	"MainCPU.vhd"
+work	"MemCtr.vhd"
+work	"Memory.vhd"
+work	"Rewrite.vhd"
+work	"TkOrder.vhd"
+work	"clkCtr.vhd"

@@ -1,0 +1,2 @@
+vhdl isim_temp "TkOrder.vhd"
+vhdl isim_temp "TkOrder_test.vhd"
